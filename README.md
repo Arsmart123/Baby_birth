@@ -2,7 +2,8 @@
 Assignment
 
 The related files are listed here: https://www.coursera.org/learn/java-programming/supplement/VeM7L/miniproject-exercise-guide
-To run these codes, you need to download "BlueJ" and double click the "blueJ" file I have uploaded. 
+
+**To run these codes, you need to download "BlueJ" and double click the "blueJ" file I have uploaded. **
 
 For this assignment, we are providing data on baby names from the United States and you will answer questions about this data. The data files give information on the first names of people born in a particular year. We have data from 1880 through 2014 on both boys and girls names. You can download a .zip folder of all baby name data by clicking here.
 
